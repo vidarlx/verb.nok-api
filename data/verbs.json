@@ -1,0 +1,2852 @@
+{
+  "adlyde": {
+    "present": "adlyder",
+    "past": "adlød",
+    "perfect": "har adlydt",
+    "meaning_pl": "być posłusznym, wykonywać rozkazy, przestrzegać prawa, słuchać czyichś poleceń"
+  },
+  "ake": {
+    "present": "aker",
+    "past": "akte",
+    "perfect": "har akt",
+    "meaning_pl": "jeździć na sankach"
+  },
+  "anbefale": {
+    "present": "anbefaler",
+    "past": "anbefalte",
+    "perfect": "har anbefalt",
+    "meaning_pl": "polecać"
+  },
+  "angre": {
+    "present": "angrer",
+    "past": "angret",
+    "perfect": "har angret",
+    "meaning_pl": "żałować"
+  },
+  "arbeide": {
+    "present": "arbeider",
+    "past": "arbeidet",
+    "perfect": "har arbeidet",
+    "meaning_pl": "pracować"
+  },
+  "arrestere": {
+    "present": "arresterer",
+    "past": "arresterte",
+    "perfect": "har arrestert",
+    "meaning_pl": "aresztować"
+  },
+  "avbryte": {
+    "present": "avbryter",
+    "past": "avbrøt",
+    "perfect": "har avbrutt",
+    "meaning_pl": "przerywać, przeszkadzać"
+  },
+  "avertere": {
+    "present": "averterer",
+    "past": "averterte",
+    "perfect": "har avertert",
+    "meaning_pl": "reklamować, głosić"
+  },
+  "avslutte": {
+    "present": "avslutter",
+    "past": "avsluttet",
+    "perfect": "har avsluttet",
+    "meaning_pl": "kończyć, dokończyć, zakończyć"
+  },
+  "avvæpne": {
+    "present": "avvæpner",
+    "past": "avvæpnet",
+    "perfect": "har avvæpnet",
+    "meaning_pl": "rozbrajać"
+  },
+  "bade": {
+    "present": "bader",
+    "past": "badet",
+    "perfect": "har badet",
+    "meaning_pl": "kąpać się"
+  },
+  "bake": {
+    "present": "baker",
+    "past": "bakte",
+    "perfect": "har bakt",
+    "meaning_pl": "piec"
+  },
+  "banke": {
+    "present": "banker",
+    "past": "banket",
+    "perfect": "har banket",
+    "meaning_pl": "pukać, stukać, trzepać"
+  },
+  "barbere": {
+    "present": "barberer",
+    "past": "barberte",
+    "perfect": "har barbert",
+    "meaning_pl": "golić (seg"
+  },
+  "be (om)": {
+    "present": "ber (om)",
+    "past": "ba (om)",
+    "perfect": "har bedt (om)",
+    "meaning_pl": "prosić, błagać"
+  },
+  "bedra": {
+    "present": "bedrar",
+    "past": "bedro",
+    "perfect": "har bedratt",
+    "meaning_pl": "oszukiwać, zdradzać"
+  },
+  "bedøve": {
+    "present": "bedøver",
+    "past": "bedøvde",
+    "perfect": "har bedøvd",
+    "meaning_pl": "ogłuszyć, oszołomić"
+  },
+  "begrense": {
+    "present": "begrenser",
+    "past": "begrenset",
+    "perfect": "har begrenset",
+    "meaning_pl": "ograniczać"
+  },
+  "begripe": {
+    "present": "begriper",
+    "past": "begre(i)p",
+    "perfect": "har begrepet",
+    "meaning_pl": "pojmować, rozumieć"
+  },
+  "begrunne": {
+    "present": "begrunner",
+    "past": "begrunnet",
+    "perfect": "har begrunnet",
+    "meaning_pl": "uzasadniać"
+  },
+  "begynne": {
+    "present": "begynner",
+    "past": "begynte",
+    "perfect": "har begynt",
+    "meaning_pl": "rozpoczynać"
+  },
+  "beherske": {
+    "present": "behersker",
+    "past": "behersket",
+    "perfect": "har behersket",
+    "meaning_pl": "pokonywać, opanowywać (beherske seg"
+  },
+  "beite": {
+    "present": "beiter",
+    "past": "beitet",
+    "perfect": "har beitet",
+    "meaning_pl": "paść się (o zwierzętach na pastwisku)"
+  },
+  "beklage": {
+    "present": "beklager",
+    "past": "beklaget",
+    "perfect": "har beklaget",
+    "meaning_pl": "przepraszać"
+  },
+  "bekrefte": {
+    "present": "bekrefter",
+    "past": "bekreftet",
+    "perfect": "har bekreftet",
+    "meaning_pl": "potwierdzać, poświadczać"
+  },
+  "bekymre": {
+    "present": "bekymrer",
+    "past": "bekymret",
+    "perfect": "har bekymret",
+    "meaning_pl": "martwić (seg"
+  },
+  "beseire": {
+    "present": "beseirer",
+    "past": "beseiret",
+    "perfect": "har beseiret",
+    "meaning_pl": "pokonywać"
+  },
+  "beskrive": {
+    "present": "beskriver",
+    "past": "beskrev",
+    "perfect": "har beskrevet",
+    "meaning_pl": "opisywać"
+  },
+  "bestemme": {
+    "present": "bestemmer",
+    "past": "bestemte",
+    "perfect": "har bestemt",
+    "meaning_pl": "decydować"
+  },
+  "bestille": {
+    "present": "bestiller",
+    "past": "bestilte",
+    "perfect": "har bestilt",
+    "meaning_pl": "zamawiać"
+  },
+  "bestå": {
+    "present": "består",
+    "past": "besto",
+    "perfect": "har bestått",
+    "meaning_pl": "zdać (egamin, test, itp.)"
+  },
+  "besvare": {
+    "present": "besvarer",
+    "past": "besvarte",
+    "perfect": "har besvart",
+    "meaning_pl": "odpowiadać"
+  },
+  "besøke": {
+    "present": "besøker",
+    "past": "besøkte",
+    "perfect": "har besøkt",
+    "meaning_pl": "odwiedzać, uczęszczać"
+  },
+  "betale": {
+    "present": "betaler",
+    "past": "betalte",
+    "perfect": "har betalt",
+    "meaning_pl": "płacić"
+  },
+  "betegne": {
+    "present": "betegner",
+    "past": "betegnet",
+    "perfect": "har betegnet",
+    "meaning_pl": "określić"
+  },
+  "bety": {
+    "present": "betyr",
+    "past": "betydde",
+    "perfect": "har betydd",
+    "meaning_pl": "znaczyć"
+  },
+  "binde": {
+    "present": "binder",
+    "past": "bandt",
+    "perfect": "har bundet",
+    "meaning_pl": "wiązać"
+  },
+  "bite": {
+    "present": "biter",
+    "past": "bet",
+    "perfect": "har bitt",
+    "meaning_pl": "gryźć"
+  },
+  "bleke": {
+    "present": "bleker",
+    "past": "bleket",
+    "perfect": "har bleket",
+    "meaning_pl": "rozjaśniać, wybielać"
+  },
+  "bli": {
+    "present": "blir",
+    "past": "ble",
+    "perfect": "har blitt",
+    "meaning_pl": "stawać się"
+  },
+  "blåse": {
+    "present": "blåser",
+    "past": "blåste",
+    "perfect": "har blåst",
+    "meaning_pl": "wiać"
+  },
+  "bløffe": {
+    "present": "bløffer",
+    "past": "bløffet",
+    "perfect": "har bløffet",
+    "meaning_pl": "blefować"
+  },
+  "bo": {
+    "present": "bor",
+    "past": "bodde",
+    "perfect": "har bodd",
+    "meaning_pl": "mieszkać"
+  },
+  "brekke": {
+    "present": "brekker",
+    "past": "brakk",
+    "perfect": "har brukket",
+    "meaning_pl": "łamać"
+  },
+  "brenne": {
+    "present": "brenner",
+    "past": "brente",
+    "perfect": "har brent",
+    "meaning_pl": "palić (nie w odniesieniu do palenia nikotyny)"
+  },
+  "bringe": {
+    "present": "bringer",
+    "past": "brakte",
+    "perfect": "har brakt",
+    "meaning_pl": "przynosić"
+  },
+  "briste": {
+    "present": "brister",
+    "past": "brast",
+    "perfect": "har bristet",
+    "meaning_pl": "pękać"
+  },
+  "bruke": {
+    "present": "bruker",
+    "past": "brukte",
+    "perfect": "har brukt",
+    "meaning_pl": "używać, stosować"
+  },
+  "bry seg om": {
+    "present": "bryr seg om",
+    "past": "brydde\tseg om",
+    "perfect": "har brydd seg om",
+    "meaning_pl": "troszczyć się o..., zalezeć na..."
+  },
+  "bryte": {
+    "present": "bryter",
+    "past": "brøt",
+    "perfect": "har brutt",
+    "meaning_pl": "zbić, rozbić, łamać"
+  },
+  "burde": {
+    "present": "bør",
+    "past": "burde",
+    "perfect": "har burdet",
+    "meaning_pl": "powinno"
+  },
+  "by": {
+    "present": "byr",
+    "past": "bydde",
+    "perfect": "har bydd",
+    "meaning_pl": "oferować, zapraszać"
+  },
+  "bytte": {
+    "present": "bytter",
+    "past": "byttet",
+    "perfect": "har byttet",
+    "meaning_pl": "wymieniać"
+  },
+  "bære": {
+    "present": "bærer",
+    "past": "bar",
+    "perfect": "har båret",
+    "meaning_pl": "nosić"
+  },
+  "bølge": {
+    "present": "bølger",
+    "past": "bølget",
+    "perfect": "har bølget",
+    "meaning_pl": "falować"
+  },
+  "bøye": {
+    "present": "bøyer",
+    "past": "bøyde",
+    "perfect": "har bøyd",
+    "meaning_pl": "schylać, uginać, wygiąć, zgiąć, skręcić"
+  },
+  "danse": {
+    "present": "danser",
+    "past": "danset",
+    "perfect": "har danset",
+    "meaning_pl": "tańczyć"
+  },
+  "dekke": {
+    "present": "dekker",
+    "past": "dekket",
+    "perfect": "har dekket",
+    "meaning_pl": "zakryć, przykryć, nakryć"
+  },
+  "dele": {
+    "present": "deler",
+    "past": "delte",
+    "perfect": "har delt",
+    "meaning_pl": "dzielić"
+  },
+  "dette": {
+    "present": "detter",
+    "past": "datt",
+    "perfect": "har dettet",
+    "meaning_pl": "spadać"
+  },
+  "dikte": {
+    "present": "dikter",
+    "past": "diktet",
+    "perfect": "har diktet",
+    "meaning_pl": "opisywać, pisać wiersze"
+  },
+  "dikte opp": {
+    "present": "dikter opp",
+    "past": "diktet opp",
+    "perfect": "har diktet opp",
+    "meaning_pl": "zmyślać"
+  },
+  "diskutere": {
+    "present": "diskuterer",
+    "past": "diskuterte",
+    "perfect": "har diskutert",
+    "meaning_pl": "dyskutować"
+  },
+  "drepe": {
+    "present": "dreper",
+    "past": "drepte",
+    "perfect": "har drept",
+    "meaning_pl": "zabijać"
+  },
+  "drikke": {
+    "present": "drikker",
+    "past": "drakk",
+    "perfect": "har drukket",
+    "meaning_pl": "pić"
+  },
+  "driste seg": {
+    "present": "drister seg",
+    "past": "dristet seg",
+    "perfect": "har dristet seg",
+    "meaning_pl": "ośmielić się"
+  },
+  "drømme": {
+    "present": "drømmer",
+    "past": "drømte",
+    "perfect": "har drømt",
+    "meaning_pl": "marzyć, śnić"
+  },
+  "dusje": {
+    "present": "dusjer",
+    "past": "dusjet",
+    "perfect": "har dusjet",
+    "meaning_pl": "brać prysznic"
+  },
+  "dø": {
+    "present": "dør",
+    "past": "døde",
+    "perfect": "har dødd",
+    "meaning_pl": "umierać"
+  },
+  "eie": {
+    "present": "eier",
+    "past": "eide",
+    "perfect": "har eid",
+    "meaning_pl": "posiadać"
+  },
+  "elske": {
+    "present": "elsker",
+    "past": "elsket",
+    "perfect": "har elsket",
+    "meaning_pl": "kochać"
+  },
+  "ende": {
+    "present": "ender",
+    "past": "endte",
+    "perfect": "har endt",
+    "meaning_pl": "kończyć"
+  },
+  "erfare": {
+    "present": "erfarer",
+    "past": "erfarte",
+    "perfect": "har erfart",
+    "meaning_pl": "doświadczać"
+  },
+  "ete": {
+    "present": "eter",
+    "past": "åt",
+    "perfect": "har ett",
+    "meaning_pl": "jeść"
+  },
+  "evakuere": {
+    "present": "evakuerer",
+    "past": "evakuerte",
+    "perfect": "har evakuert",
+    "meaning_pl": "ewakuować"
+  },
+  "falle": {
+    "present": "faller",
+    "past": "falt",
+    "perfect": "har falt",
+    "meaning_pl": "upaść, spadać"
+  },
+  "fare": {
+    "present": "farer",
+    "past": "for",
+    "perfect": "har fart",
+    "meaning_pl": "udawać się"
+  },
+  "feire": {
+    "present": "feirer",
+    "past": "feiret",
+    "perfect": "har feiret",
+    "meaning_pl": "święcić, świętować"
+  },
+  "finne": {
+    "present": "finner",
+    "past": "fant",
+    "perfect": "har funnet",
+    "meaning_pl": "znajdować, znaleźć"
+  },
+  "finnes": {
+    "present": "finnes",
+    "past": "fantes",
+    "perfect": "har funnes",
+    "meaning_pl": "istnieć"
+  },
+  "fiske": {
+    "present": "fisker",
+    "past": "fisket",
+    "perfect": "har fisket",
+    "meaning_pl": "łowić ryby"
+  },
+  "fjerne": {
+    "present": "fjerner",
+    "past": "fjernet",
+    "perfect": "har fjernet",
+    "meaning_pl": "usunąć"
+  },
+  "fly": {
+    "present": "flyr",
+    "past": "fløy",
+    "perfect": "har fløyet",
+    "meaning_pl": "latać"
+  },
+  "flykte": {
+    "present": "flykter",
+    "past": "flyktet",
+    "perfect": "har flyktet",
+    "meaning_pl": "uciec"
+  },
+  "forandre": {
+    "present": "forandrer",
+    "past": "forandret",
+    "perfect": "har forandret",
+    "meaning_pl": "zmienić"
+  },
+  "forbedre": {
+    "present": "forbedrer",
+    "past": "forbedret",
+    "perfect": "har forbedret",
+    "meaning_pl": "udoskonalić, ulepszyć, polepszyć"
+  },
+  "forberede": {
+    "present": "forbereder",
+    "past": "forberedte",
+    "perfect": "har forberedt",
+    "meaning_pl": "przygotować"
+  },
+  "foregå": {
+    "present": "foregår",
+    "past": "foregikk",
+    "perfect": "har foregått",
+    "meaning_pl": "zdarzyć się, mieć miejsce"
+  },
+  "foreldes": {
+    "present": "foreldes",
+    "past": "foreldet",
+    "perfect": "har foreldet",
+    "meaning_pl": "stawać się"
+  },
+  "forelese": {
+    "present": "foreleser",
+    "past": "foreleste",
+    "perfect": "har forelest",
+    "meaning_pl": "wykładać, pouczać"
+  },
+  "foreslå": {
+    "present": "foreslår",
+    "past": "foreslo",
+    "perfect": "har foreslått",
+    "meaning_pl": "proponować"
+  },
+  "foretrekke": {
+    "present": "foretrekker",
+    "past": "foretrakk",
+    "perfect": "har foretrukket",
+    "meaning_pl": "woleć"
+  },
+  "forfølge": {
+    "present": "forfølger",
+    "past": "forfulgte",
+    "perfect": "har forfulgt",
+    "meaning_pl": "prześladować"
+  },
+  "forlate": {
+    "present": "forlater",
+    "past": "forlot",
+    "perfect": "har forlatt",
+    "meaning_pl": "porzucić, opuścić"
+  },
+  "forstyrre": {
+    "present": "forstyrrer",
+    "past": "forstyrret",
+    "perfect": "har forstyrret",
+    "meaning_pl": "zakłócać, przeszkadzać"
+  },
+  "forstå": {
+    "present": "forstår",
+    "past": "forstod",
+    "perfect": "har forstått",
+    "meaning_pl": "rozumieć"
+  },
+  "forsvinne": {
+    "present": "forsvinner",
+    "past": "forsvant",
+    "perfect": "har forsvunnet",
+    "meaning_pl": "zanikać"
+  },
+  "forsyne": {
+    "present": "forsyner",
+    "past": "forsynte",
+    "perfect": "har forsynt",
+    "meaning_pl": "zaopatrywać"
+  },
+  "forsøke": {
+    "present": "forsøker",
+    "past": "forsøkte",
+    "perfect": "har forsøkt",
+    "meaning_pl": "próbować"
+  },
+  "forte seg": {
+    "present": "forter seg",
+    "past": "fortet seg",
+    "perfect": "har fortet seg",
+    "meaning_pl": "spieszyć się"
+  },
+  "fortelle": {
+    "present": "forteller",
+    "past": "fortalte",
+    "perfect": "har fortalt",
+    "meaning_pl": "opowiadać"
+  },
+  "fortsette": {
+    "present": "fortsetter",
+    "past": "fortsatte",
+    "perfect": "har fortsatt",
+    "meaning_pl": "kontynuować"
+  },
+  "fotografere": {
+    "present": "fotograferer",
+    "past": "fotograferte",
+    "perfect": "har fotografert",
+    "meaning_pl": "fotografować"
+  },
+  "frykte": {
+    "present": "frykter",
+    "past": "fryktet",
+    "perfect": "har fryktet",
+    "meaning_pl": "bać się, obawiać się"
+  },
+  "fryse": {
+    "present": "fryser",
+    "past": "frøs",
+    "perfect": "har frosset",
+    "meaning_pl": "marznąć, zamarzać"
+  },
+  "fyke": {
+    "present": "fyker",
+    "past": "føk",
+    "perfect": "har føket",
+    "meaning_pl": "dryfować"
+  },
+  "fylle": {
+    "present": "fyller",
+    "past": "fylte",
+    "perfect": "har fylt",
+    "meaning_pl": "spełniać"
+  },
+  "fylle ut": {
+    "present": "fyller ut",
+    "past": "fylte ut",
+    "perfect": "har fylt ut",
+    "meaning_pl": "wypełniać"
+  },
+  "få": {
+    "present": "får",
+    "past": "fikk",
+    "perfect": "har fått",
+    "meaning_pl": "dostawać"
+  },
+  "fø": {
+    "present": "før",
+    "past": "fødde",
+    "perfect": "har fødd",
+    "meaning_pl": "karmić, żywić"
+  },
+  "føde": {
+    "present": "føder",
+    "past": "fødte",
+    "perfect": "har født",
+    "meaning_pl": "rodzić"
+  },
+  "føle": {
+    "present": "føler",
+    "past": "følte",
+    "perfect": "har følt",
+    "meaning_pl": "czuć (seg"
+  },
+  "følge": {
+    "present": "følger",
+    "past": "fulgte",
+    "perfect": "har fulgt",
+    "meaning_pl": "przyprowadzać, odporowadzać, pójść za..."
+  },
+  "føne": {
+    "present": "føner",
+    "past": "fønet",
+    "perfect": "har fønet",
+    "meaning_pl": "suszyć"
+  },
+  "gange": {
+    "present": "ganger",
+    "past": "ganget",
+    "perfect": "har ganget",
+    "meaning_pl": "mnożyć"
+  },
+  "gi": {
+    "present": "gir",
+    "past": "gav",
+    "perfect": "har gitt",
+    "meaning_pl": "dawać"
+  },
+  "gidde": {
+    "present": "gidder",
+    "past": "gadd",
+    "perfect": "har giddet",
+    "meaning_pl": "chcieć (w sensie: chce mi się"
+  },
+  "gifte seg": {
+    "present": "gifter seg",
+    "past": "giftet seg",
+    "perfect": "har giftet seg",
+    "meaning_pl": "żenić się, wychodzić za mąż"
+  },
+  "gjelde": {
+    "present": "gjelder",
+    "past": "gjaldt",
+    "perfect": "har gjeldt",
+    "meaning_pl": "dotyczyć"
+  },
+  "gjenta": {
+    "present": "gjentar",
+    "past": "gjentok",
+    "perfect": "har gjentatt",
+    "meaning_pl": "powtarzać"
+  },
+  "gjespe": {
+    "present": "gjesper",
+    "past": "gjespet",
+    "perfect": "har gjespet",
+    "meaning_pl": "ziewać"
+  },
+  "gjette": {
+    "present": "gjetter",
+    "past": "gjettet",
+    "perfect": "har gjettet",
+    "meaning_pl": "zgadywać"
+  },
+  "gjøre": {
+    "present": "gjør",
+    "past": "gjorde",
+    "perfect": "har gjort",
+    "meaning_pl": "robić"
+  },
+  "glede seg": {
+    "present": "gleder seg",
+    "past": "gledet seg",
+    "perfect": "har gledet seg",
+    "meaning_pl": "cieszyć się"
+  },
+  "glemme": {
+    "present": "glemmer",
+    "past": "glemte",
+    "perfect": "har glemt",
+    "meaning_pl": "zapominać"
+  },
+  "gli": {
+    "present": "glir",
+    "past": "gled",
+    "perfect": "har glidd",
+    "meaning_pl": "szybować\t, sunąć"
+  },
+  "glippe": {
+    "present": "glipper",
+    "past": "glapp",
+    "perfect": "har glippet",
+    "meaning_pl": "wyslizgiwać się"
+  },
+  "gløde, glø": {
+    "present": "gløder, glør",
+    "past": "glødde",
+    "perfect": "har glødd",
+    "meaning_pl": "tlić się, żarzyć się"
+  },
+  "gratulere": {
+    "present": "gratulerer",
+    "past": "gratulerte",
+    "perfect": "har gratulert",
+    "meaning_pl": "gratulować"
+  },
+  "grave": {
+    "present": "graver",
+    "past": "gravde",
+    "perfect": "har gravd",
+    "meaning_pl": "kopać"
+  },
+  "gre": {
+    "present": "grer",
+    "past": "gredde",
+    "perfect": "har gredd",
+    "meaning_pl": "uczesać się"
+  },
+  "greie": {
+    "present": "greier",
+    "past": "greide",
+    "perfect": "har greidd",
+    "meaning_pl": "sprostać"
+  },
+  "grille": {
+    "present": "griller",
+    "past": "grillet",
+    "perfect": "har grillet",
+    "meaning_pl": "grilować"
+  },
+  "grine": {
+    "present": "griner",
+    "past": "grinte",
+    "perfect": "har grinet",
+    "meaning_pl": "płakać"
+  },
+  "gripe": {
+    "present": "griper",
+    "past": "grep",
+    "perfect": "har grepet",
+    "meaning_pl": "chwytać, łapać"
+  },
+  "gruble": {
+    "present": "grubler",
+    "past": "grublet",
+    "perfect": "har grublet",
+    "meaning_pl": "rozważać, dumać"
+  },
+  "gråte": {
+    "present": "gråter",
+    "past": "gråt",
+    "perfect": "har grått",
+    "meaning_pl": "płakać"
+  },
+  "gå": {
+    "present": "går",
+    "past": "gikk",
+    "perfect": "har gått",
+    "meaning_pl": "iść"
+  },
+  "ha": {
+    "present": "har",
+    "past": "hadde",
+    "perfect": "har hatt",
+    "meaning_pl": "mieć"
+  },
+  "handle": {
+    "present": "handler",
+    "past": "handlet",
+    "perfect": "har handlet",
+    "meaning_pl": "robić zakupy"
+  },
+  "hende": {
+    "present": "hender",
+    "past": "hendte",
+    "perfect": "har hendt",
+    "meaning_pl": "zdarzać się"
+  },
+  "henge": {
+    "present": "henger",
+    "past": "hengte",
+    "perfect": "har hengt",
+    "meaning_pl": "wisieć"
+  },
+  "herske": {
+    "present": "hersker",
+    "past": "hersket",
+    "perfect": "har hersket",
+    "meaning_pl": "panować, rządzić"
+  },
+  "hete": {
+    "present": "heter",
+    "past": "hette",
+    "perfect": "har hett",
+    "meaning_pl": "nazywać się"
+  },
+  "hilse": {
+    "present": "hilser",
+    "past": "hilste",
+    "perfect": "har hilst",
+    "meaning_pl": "pozdrawiać, witać"
+  },
+  "hindre": {
+    "present": "hindrer",
+    "past": "hindret",
+    "perfect": "har hindret",
+    "meaning_pl": "blokować, tarasować"
+  },
+  "hjelpe": {
+    "present": "hjelper",
+    "past": "hjalp",
+    "perfect": "har hjulpet",
+    "meaning_pl": "pomagać"
+  },
+  "holde": {
+    "present": "holder",
+    "past": "holdt",
+    "perfect": "har holdt",
+    "meaning_pl": "trzymać"
+  },
+  "hoppe": {
+    "present": "hopper",
+    "past": "hoppet",
+    "perfect": "har hoppet",
+    "meaning_pl": "skakać"
+  },
+  "hoste": {
+    "present": "hoster",
+    "past": "hostet",
+    "perfect": "har hostet",
+    "meaning_pl": "kaszleć"
+  },
+  "huske": {
+    "present": "husker",
+    "past": "husket",
+    "perfect": "har husket",
+    "meaning_pl": "pamiętać"
+  },
+  "hviske": {
+    "present": "hvisker",
+    "past": "hvisket",
+    "perfect": "har hvisket",
+    "meaning_pl": "szeptać"
+  },
+  "håpe": {
+    "present": "håper",
+    "past": "håpet",
+    "perfect": "har håpet",
+    "meaning_pl": "mieć nadzieję"
+  },
+  "høre": {
+    "present": "hører",
+    "past": "hørte",
+    "perfect": "har hørt",
+    "meaning_pl": "słyszeć"
+  },
+  "identifisere": {
+    "present": "identifiserer",
+    "past": "identifiserte",
+    "perfect": "har identifisiert",
+    "meaning_pl": "identyfikować"
+  },
+  "innrede": {
+    "present": "innreder",
+    "past": "innredet",
+    "perfect": "har innredet",
+    "meaning_pl": "wyposażać, urządzać"
+  },
+  "interessere": {
+    "present": "interesserer",
+    "past": "innteresserte",
+    "perfect": "har innteressert",
+    "meaning_pl": "interesować się"
+  },
+  "intervjue": {
+    "present": "intervjuer",
+    "past": "intervjuet",
+    "perfect": "har intervjuet",
+    "meaning_pl": "przeprowadzać wywiad"
+  },
+  "invitere": {
+    "present": "inviterer",
+    "past": "inviterte",
+    "perfect": "har invitert",
+    "meaning_pl": "zapraszać"
+  },
+  "jakte": {
+    "present": "jakter",
+    "past": "jaktet",
+    "perfect": "har jaktet",
+    "meaning_pl": "polować, gonić"
+  },
+  "jogge": {
+    "present": "jogger",
+    "past": "jogget",
+    "perfect": "har jogget",
+    "meaning_pl": "biegać, uprawiać jogging"
+  },
+  "kalle": {
+    "present": "kaller",
+    "past": "kalte",
+    "perfect": "har kalt",
+    "meaning_pl": "nazywać"
+  },
+  "karakterisere": {
+    "present": "karakteriserer",
+    "past": "karakteriserte",
+    "perfect": "har karakterisert",
+    "meaning_pl": "charakteryzować"
+  },
+  "kaste": {
+    "present": "kaster",
+    "past": "kastet",
+    "perfect": "har kastet",
+    "meaning_pl": "rzucać"
+  },
+  "kikke": {
+    "present": "kikker",
+    "past": "kikket",
+    "perfect": "har kikket",
+    "meaning_pl": "patrzeć, zerkać"
+  },
+  "kjede": {
+    "present": "kjeder",
+    "past": "kjedet",
+    "perfect": "har kjedet",
+    "meaning_pl": "nudzić (seg"
+  },
+  "kjenne": {
+    "present": "kjenner",
+    "past": "kjente",
+    "perfect": "har kjent",
+    "meaning_pl": "znać"
+  },
+  "kjøpe": {
+    "present": "kjøper",
+    "past": "kjøpte",
+    "perfect": "har kjøpt",
+    "meaning_pl": "kupować"
+  },
+  "kjøre": {
+    "present": "kjører",
+    "past": "kjørte",
+    "perfect": "har kjørt",
+    "meaning_pl": "kierować, jechać samochodem"
+  },
+  "klare": {
+    "present": "klarer",
+    "past": "klarte",
+    "perfect": "har klart",
+    "meaning_pl": "sprostać"
+  },
+  "klatre": {
+    "present": "klatrer",
+    "past": "klatret",
+    "perfect": "har klatret",
+    "meaning_pl": "wspinać się"
+  },
+  "kle": {
+    "present": "kler",
+    "past": "kledde",
+    "perfect": "har kledd",
+    "meaning_pl": "ubierać (się), rozbierać (się)"
+  },
+  "klemme": {
+    "present": "klemmer",
+    "past": "klemte",
+    "perfect": "har klemt",
+    "meaning_pl": "ściskać, zaciskać, uścisnąć"
+  },
+  "klinge": {
+    "present": "klinger",
+    "past": "klang",
+    "perfect": "har klinget",
+    "meaning_pl": "dźwięczeć, dzwonić"
+  },
+  "klippe": {
+    "present": "klipper",
+    "past": "klipte",
+    "perfect": "har klipt",
+    "meaning_pl": "strzyc, ciąć, kosić"
+  },
+  "knekke": {
+    "present": "knekker",
+    "past": "knakk",
+    "perfect": "har knekt",
+    "meaning_pl": "zbić, rozbić"
+  },
+  "knipe": {
+    "present": "kniper",
+    "past": "knep",
+    "perfect": "har knepet",
+    "meaning_pl": "szczypać, ściskać"
+  },
+  "knuse": {
+    "present": "knuser",
+    "past": "knuste",
+    "perfect": "har knust",
+    "meaning_pl": "potłuc, rozbić"
+  },
+  "knytte": {
+    "present": "knytter",
+    "past": "knyttet",
+    "perfect": "har knyttet",
+    "meaning_pl": "zawiązać, związać, przywiązać"
+  },
+  "koke": {
+    "present": "koker",
+    "past": "kokte",
+    "perfect": "har kokt",
+    "meaning_pl": "gotować"
+  },
+  "komme": {
+    "present": "kommer",
+    "past": "kom",
+    "perfect": "har kommet",
+    "meaning_pl": "przyjść, pójść"
+  },
+  "kontakte": {
+    "present": "kontakter",
+    "past": "kontaktet",
+    "perfect": "har kontaktet",
+    "meaning_pl": "kontaktować się"
+  },
+  "kontrollere": {
+    "present": "kontrollerer",
+    "past": "kontrollerte",
+    "perfect": "har kontrollert",
+    "meaning_pl": "kontrolować"
+  },
+  "konversere": {
+    "present": "konverserer",
+    "past": "konverserte",
+    "perfect": "har konversert",
+    "meaning_pl": "konwersować, rozmawiać"
+  },
+  "kose seg": {
+    "present": "koser seg",
+    "past": "koste seg",
+    "perfect": "har kost seg",
+    "meaning_pl": "miło spędzać czas"
+  },
+  "krangle": {
+    "present": "krangler",
+    "past": "kranglet",
+    "perfect": "har kranglet",
+    "meaning_pl": "kłócić się"
+  },
+  "kreve": {
+    "present": "krever",
+    "past": "krevde",
+    "perfect": "har krevd",
+    "meaning_pl": "żądać, domagać się"
+  },
+  "kritisere": {
+    "present": "kritiserer",
+    "past": "kritiserte",
+    "perfect": "har kritisert",
+    "meaning_pl": "krytykować"
+  },
+  "krympe": {
+    "present": "krymper",
+    "past": "krympet",
+    "perfect": "har krympet",
+    "meaning_pl": "kurczyć się"
+  },
+  "krype": {
+    "present": "kryper",
+    "past": "krøp",
+    "perfect": "har krøpet",
+    "meaning_pl": "pełzać"
+  },
+  "krysse": {
+    "present": "krysser",
+    "past": "krysset",
+    "perfect": "har krysset",
+    "meaning_pl": "przekraczać (krysse av"
+  },
+  "kunne": {
+    "present": "kan",
+    "past": "kunne",
+    "perfect": "har kunnet",
+    "meaning_pl": "móc, umieć"
+  },
+  "la": {
+    "present": "lar",
+    "past": "lot",
+    "perfect": "har latt",
+    "meaning_pl": "pozwalać"
+  },
+  "lage": {
+    "present": "lager",
+    "past": "laget",
+    "perfect": "har laget",
+    "meaning_pl": "robić, przygotowywać"
+  },
+  "lande": {
+    "present": "lander",
+    "past": "landet",
+    "perfect": "har landet",
+    "meaning_pl": "lądować"
+  },
+  "lansere": {
+    "present": "lanserer",
+    "past": "lanserte",
+    "perfect": "har lansert",
+    "meaning_pl": "lansować"
+  },
+  "le": {
+    "present": "ler",
+    "past": "lo",
+    "perfect": "har ledd",
+    "meaning_pl": "śmiać się"
+  },
+  "legge": {
+    "present": "legger",
+    "past": "la",
+    "perfect": "har lagt",
+    "meaning_pl": "kłaść"
+  },
+  "leie": {
+    "present": "leier",
+    "past": "leide",
+    "perfect": "har leid",
+    "meaning_pl": "wynajmować, wypożyczać"
+  },
+  "leke": {
+    "present": "leker",
+    "past": "lekte",
+    "perfect": "har lekt",
+    "meaning_pl": "bawić się"
+  },
+  "lemleste": {
+    "present": "lemlester",
+    "past": "lemlestet",
+    "perfect": "har lemlestet",
+    "meaning_pl": "okaleczyć"
+  },
+  "lengte": {
+    "present": "lengter",
+    "past": "lengtet",
+    "perfect": "har lengtet",
+    "meaning_pl": "tęsknić"
+  },
+  "lese": {
+    "present": "leser",
+    "past": "leste",
+    "perfect": "har lest",
+    "meaning_pl": "czytać"
+  },
+  "lete": {
+    "present": "leter",
+    "past": "lette",
+    "perfect": "har lett",
+    "meaning_pl": "szukać"
+  },
+  "leve": {
+    "present": "lever",
+    "past": "levde",
+    "perfect": "har levd",
+    "meaning_pl": "żyć"
+  },
+  "ligge": {
+    "present": "ligger",
+    "past": "lå",
+    "perfect": "har ligget",
+    "meaning_pl": "leżeć"
+  },
+  "ligne-likne": {
+    "present": "ligner-likner",
+    "past": "lignet-liknet",
+    "perfect": "har lignet-liknet",
+    "meaning_pl": "być podobnym do kogoś, przypominać kogoś"
+  },
+  "like": {
+    "present": "liker",
+    "past": "likte",
+    "perfect": "har likt",
+    "meaning_pl": "lubić"
+  },
+  "love": {
+    "present": "lover",
+    "past": "lovet",
+    "perfect": "har lovet",
+    "meaning_pl": "obiecywać"
+  },
+  "lukke": {
+    "present": "lukker",
+    "past": "lukket",
+    "perfect": "har lukket",
+    "meaning_pl": "zamykać"
+  },
+  "lukte": {
+    "present": "lukter",
+    "past": "luktet",
+    "perfect": "har luktet",
+    "meaning_pl": "pachnieć, wąchać"
+  },
+  "lure": {
+    "present": "lurer",
+    "past": "lurte",
+    "perfect": "har lurt",
+    "meaning_pl": "oszukiwać, nabierać"
+  },
+  "lure på": {
+    "present": "lurer på",
+    "past": "lurte på",
+    "perfect": "har lurt på",
+    "meaning_pl": "chcieć wiedzieć, zastanawiać się"
+  },
+  "lyne": {
+    "present": "lyner",
+    "past": "lynte",
+    "perfect": "har lynt",
+    "meaning_pl": "błyskać"
+  },
+  "lyse": {
+    "present": "lyser",
+    "past": "lyste",
+    "perfect": "har lyst",
+    "meaning_pl": "świecić"
+  },
+  "lytte": {
+    "present": "lytter",
+    "past": "lyttet",
+    "perfect": "har lyttet",
+    "meaning_pl": "słuchać"
+  },
+  "lyve": {
+    "present": "lyver",
+    "past": "løy",
+    "perfect": "har løyet",
+    "meaning_pl": "kłamać"
+  },
+  "låne": {
+    "present": "låner",
+    "past": "lånte",
+    "perfect": "har lånt",
+    "meaning_pl": "pożyczać"
+  },
+  "låse": {
+    "present": "låser",
+    "past": "låste",
+    "perfect": "har låst",
+    "meaning_pl": "zamykać na klucz"
+  },
+  "låte": {
+    "present": "låter",
+    "past": "låt",
+    "perfect": "har lått",
+    "meaning_pl": "brzmieć"
+  },
+  "lære": {
+    "present": "lærer",
+    "past": "lærte",
+    "perfect": "har lært",
+    "meaning_pl": "uczyć"
+  },
+  "løfte": {
+    "present": "løfter",
+    "past": "løftet",
+    "perfect": "har løftet",
+    "meaning_pl": "podnosić"
+  },
+  "løpe": {
+    "present": "løper",
+    "past": "løp",
+    "perfect": "har løpt",
+    "meaning_pl": "biegać"
+  },
+  "løse": {
+    "present": "løser",
+    "past": "løste",
+    "perfect": "har løst",
+    "meaning_pl": "rozwiązywać"
+  },
+  "male": {
+    "present": "maler",
+    "past": "malte",
+    "perfect": "har malt",
+    "meaning_pl": "malować"
+  },
+  "mangle": {
+    "present": "mangler",
+    "past": "manglet",
+    "perfect": "har manglet",
+    "meaning_pl": "brakować, odczuwać brak"
+  },
+  "mase": {
+    "present": "maser",
+    "past": "maste",
+    "perfect": "har mast",
+    "meaning_pl": "marudzić"
+  },
+  "melde": {
+    "present": "melder",
+    "past": "meldte",
+    "perfect": "har meldt",
+    "meaning_pl": "meldować, zgłaszać"
+  },
+  "mene": {
+    "present": "mener",
+    "past": "mente",
+    "perfect": "har ment",
+    "meaning_pl": "mieć na myśli, uważać"
+  },
+  "merke": {
+    "present": "merker",
+    "past": "merket",
+    "perfect": "har merket",
+    "meaning_pl": "zauważać, zaznaczać"
+  },
+  "miste": {
+    "present": "mister",
+    "past": "mistet",
+    "perfect": "har mistet",
+    "meaning_pl": "gubić, tracić"
+  },
+  "mistenke": {
+    "present": "mistenker",
+    "past": "mistenkte",
+    "perfect": "har mistenkt",
+    "meaning_pl": "podejrzewać"
+  },
+  "måtte": {
+    "present": "må",
+    "past": "måtte",
+    "perfect": "har måttet",
+    "meaning_pl": "musieć"
+  },
+  "møte": {
+    "present": "møter",
+    "past": "møtte",
+    "perfect": "har møtt",
+    "meaning_pl": "spotykać"
+  },
+  "narre": {
+    "present": "narrer",
+    "past": "narret",
+    "perfect": "har narret",
+    "meaning_pl": "nabierać kogoś, żartować"
+  },
+  "nekte": {
+    "present": "nekter",
+    "past": "nektet",
+    "perfect": "har nektet",
+    "meaning_pl": "zaprzeczyć"
+  },
+  "notere": {
+    "present": "noterer",
+    "past": "noterte",
+    "perfect": "har notert",
+    "meaning_pl": "notować"
+  },
+  "nå": {
+    "present": "når",
+    "past": "nådde",
+    "perfect": "har nådd",
+    "meaning_pl": "dosięgać, zdążyć"
+  },
+  "operere": {
+    "present": "opererer",
+    "past": "opererte",
+    "perfect": "har operert",
+    "meaning_pl": "operować"
+  },
+  "oppdage": {
+    "present": "oppdager",
+    "past": "oppdaget",
+    "perfect": "har oppdaget",
+    "meaning_pl": "dostrzec, wykryć, odkryć"
+  },
+  "oppfatte": {
+    "present": "oppfatter",
+    "past": "oppfattet",
+    "perfect": "har oppfattet",
+    "meaning_pl": "zrozumieć"
+  },
+  "oppfordre": {
+    "present": "oppfordrer",
+    "past": "oppfordret",
+    "perfect": "har oppfordret",
+    "meaning_pl": "wzywać kogoś do zrobienia czegoś"
+  },
+  "oppfylle": {
+    "present": "oppfyller",
+    "past": "oppfylte",
+    "perfect": "har oppfylt",
+    "meaning_pl": "spełniać, zaspokajać"
+  },
+  "oppføre": {
+    "present": "oppfører",
+    "past": "oppførte",
+    "perfect": "har oppført",
+    "meaning_pl": "wykonywać, tworzyć"
+  },
+  "oppføre seg": {
+    "present": "oppfører seg",
+    "past": "oppførte seg",
+    "perfect": "har oppført seg",
+    "meaning_pl": "zachowywać się"
+  },
+  "oppleve": {
+    "present": "opplever",
+    "past": "opplevde",
+    "perfect": "har opplevd",
+    "meaning_pl": "doznawać, doświadczyć"
+  },
+  "ordne": {
+    "present": "ordner",
+    "past": "ordnet",
+    "perfect": "har ordnet",
+    "meaning_pl": "załatwiać, uporządkować"
+  },
+  "orke": {
+    "present": "orker",
+    "past": "orket",
+    "perfect": "har orket",
+    "meaning_pl": "wytrzymywać, mieć dość siły"
+  },
+  "overdrive": {
+    "present": "overdriver",
+    "past": "overdrev",
+    "perfect": "har overdrevet",
+    "meaning_pl": "przesadzać, wyolbrzymiać"
+  },
+  "overføre": {
+    "present": "overfører",
+    "past": "overførte",
+    "perfect": "har overført",
+    "meaning_pl": "przelać\t, przenieść"
+  },
+  "overnatte": {
+    "present": "overnatter",
+    "past": "overnattet",
+    "perfect": "har overnattet",
+    "meaning_pl": "przenocować"
+  },
+  "overraske": {
+    "present": "overrasker",
+    "past": "overrasket",
+    "perfect": "har overrasket",
+    "meaning_pl": "zaskoczyć, sprawiać niespodziankę"
+  },
+  "oversette": {
+    "present": "oversetter",
+    "past": "oversatte",
+    "perfect": "har oversatt",
+    "meaning_pl": "tłumaczyć (język)"
+  },
+  "overtale": {
+    "present": "overtaler",
+    "past": "overtalte",
+    "perfect": "har overtalt",
+    "meaning_pl": "przekonywać"
+  },
+  "overvinne": {
+    "present": "overvinner",
+    "past": "overvant",
+    "perfect": "har overvunnet",
+    "meaning_pl": "pokonać"
+  },
+  "overvintre": {
+    "present": "overvintrer",
+    "past": "overvintret",
+    "perfect": "har overvintret",
+    "meaning_pl": "przezimować"
+  },
+  "pakke": {
+    "present": "pakker",
+    "past": "pakket",
+    "perfect": "har pakket",
+    "meaning_pl": "pakować"
+  },
+  "parkere": {
+    "present": "parkerer",
+    "past": "parkerte",
+    "perfect": "har parkert",
+    "meaning_pl": "parkować"
+  },
+  "passe": {
+    "present": "passer",
+    "past": "passet",
+    "perfect": "har passet",
+    "meaning_pl": "opiekować się, dbać"
+  },
+  "peke": {
+    "present": "peker",
+    "past": "pekte",
+    "perfect": "har pekt",
+    "meaning_pl": "wskazywać"
+  },
+  "planlegge": {
+    "present": "planlegger",
+    "past": "planla",
+    "perfect": "har planlagt",
+    "meaning_pl": "planować"
+  },
+  "plaske": {
+    "present": "plasker",
+    "past": "plasket",
+    "perfect": "har plasket",
+    "meaning_pl": "pluskać"
+  },
+  "pleie": {
+    "present": "pleier",
+    "past": "pleide",
+    "perfect": "har pleid",
+    "meaning_pl": "opiekować się, dbać"
+  },
+  "plombere": {
+    "present": "plomberer",
+    "past": "plomberte",
+    "perfect": "har plombert",
+    "meaning_pl": "plombować"
+  },
+  "plystre": {
+    "present": "plystrer",
+    "past": "plystret",
+    "perfect": "har plystret",
+    "meaning_pl": "gwizdać"
+  },
+  "prate": {
+    "present": "prater",
+    "past": "pratet",
+    "perfect": "har pratet",
+    "meaning_pl": "rozmawiać"
+  },
+  "prege": {
+    "present": "preger",
+    "past": "preget",
+    "perfect": "har preget",
+    "meaning_pl": "odznaczać, stemplować"
+  },
+  "presentere": {
+    "present": "presenterer",
+    "past": "presenterte",
+    "perfect": "har presentert",
+    "meaning_pl": "prezentować"
+  },
+  "prute": {
+    "present": "pruter",
+    "past": "prutet",
+    "perfect": "har prutet",
+    "meaning_pl": "targować się"
+  },
+  "prøve": {
+    "present": "prøver",
+    "past": "prøvde",
+    "perfect": "har prøvd",
+    "meaning_pl": "próbować"
+  },
+  "pugge": {
+    "present": "pugger",
+    "past": "pugget",
+    "perfect": "har pugget",
+    "meaning_pl": "uczyć sie na pamięć, wkuwać"
+  },
+  "pusse": {
+    "present": "pusser",
+    "past": "pusset",
+    "perfect": "har pusset",
+    "meaning_pl": "czyścić"
+  },
+  "pusse opp": {
+    "present": "pusser opp",
+    "past": "pusset opp",
+    "perfect": "har pusset opp",
+    "meaning_pl": "odnawiać, remontować"
+  },
+  "putte": {
+    "present": "putter",
+    "past": "puttet",
+    "perfect": "har puttet",
+    "meaning_pl": "kłaść"
+  },
+  "pynte": {
+    "present": "pynter",
+    "past": "pyntet",
+    "perfect": "har pyntet",
+    "meaning_pl": "stroić, dekorować, upiększać"
+  },
+  "pynte seg": {
+    "present": "pynter seg",
+    "past": "pyntet seg",
+    "perfect": "har pyntet seg",
+    "meaning_pl": "stroić się"
+  },
+  "påvirke": {
+    "present": "påvirker",
+    "past": "påvirket",
+    "perfect": "har påvirket",
+    "meaning_pl": "wywierać wpływ"
+  },
+  "re": {
+    "present": "rer",
+    "past": "redde",
+    "perfect": "har redd",
+    "meaning_pl": "ścielić"
+  },
+  "referere": {
+    "present": "refererer",
+    "past": "refererte",
+    "perfect": "har referert",
+    "meaning_pl": "referować"
+  },
+  "regissere": {
+    "present": "regisserer",
+    "past": "regisserte",
+    "perfect": "har regissert",
+    "meaning_pl": "reżyserować"
+  },
+  "registrere": {
+    "present": "registrerer",
+    "past": "registrerte",
+    "perfect": "har registrert",
+    "meaning_pl": "rejestrować, zarejestrować"
+  },
+  "regne": {
+    "present": "regner",
+    "past": "regnet",
+    "perfect": "har regnet",
+    "meaning_pl": "padać (deszcz), liczyć"
+  },
+  "regulere": {
+    "present": "regulerer",
+    "past": "regulerte",
+    "perfect": "har regulert",
+    "meaning_pl": "regulować"
+  },
+  "reise": {
+    "present": "reiser",
+    "past": "reiste",
+    "perfect": "har reist",
+    "meaning_pl": "podróżwować"
+  },
+  "reise seg": {
+    "present": "reiser seg",
+    "past": "reiste seg",
+    "perfect": "har reist seg",
+    "meaning_pl": "wtać"
+  },
+  "rekke": {
+    "present": "rekker",
+    "past": "rakk",
+    "perfect": "har rukket",
+    "meaning_pl": "zdążyć, osiągać, docierać"
+  },
+  "rense": {
+    "present": "renser",
+    "past": "renset",
+    "perfect": "har renset",
+    "meaning_pl": "czyścić"
+  },
+  "reparere": {
+    "present": "reparerer",
+    "past": "reparerte",
+    "perfect": "har reparert",
+    "meaning_pl": "naprawiać, reperować"
+  },
+  "resirkulere": {
+    "present": "resirkulerer",
+    "past": "resirkulerte",
+    "perfect": "har resilkulert",
+    "meaning_pl": "utylizować, przetwarzać"
+  },
+  "rette": {
+    "present": "retter",
+    "past": "rettet",
+    "perfect": "har rettet",
+    "meaning_pl": "poprawiać, prostować"
+  },
+  "ri": {
+    "present": "rir",
+    "past": "red",
+    "perfect": "har ridd",
+    "meaning_pl": "jeździć konno"
+  },
+  "ringe": {
+    "present": "ringer",
+    "past": "ringte",
+    "perfect": "har ringt",
+    "meaning_pl": "dzwonić, telefonować"
+  },
+  "risikere": {
+    "present": "risikerer",
+    "past": "risikerte",
+    "perfect": "har risikert",
+    "meaning_pl": "ryzykować"
+  },
+  "riste": {
+    "present": "rister",
+    "past": "ristet",
+    "perfect": "har ristet",
+    "meaning_pl": "trząść się, drżeć"
+  },
+  "rive": {
+    "present": "river",
+    "past": "rev",
+    "perfect": "har revet",
+    "meaning_pl": "odrywać, burzyć"
+  },
+  "rope": {
+    "present": "roper",
+    "past": "ropte",
+    "perfect": "har ropt",
+    "meaning_pl": "wołać"
+  },
+  "rulle": {
+    "present": "ruller",
+    "past": "rullet",
+    "perfect": "har rullet",
+    "meaning_pl": "toczyć"
+  },
+  "rydde": {
+    "present": "rydder",
+    "past": "ryddet",
+    "perfect": "har ryddet",
+    "meaning_pl": "sprzątać"
+  },
+  "ryke": {
+    "present": "ryker",
+    "past": "røk",
+    "perfect": "har røket",
+    "meaning_pl": "pękać, pozbywać się"
+  },
+  "rynke": {
+    "present": "rynker",
+    "past": "rynket",
+    "perfect": "har rynket",
+    "meaning_pl": "gnieść, marszczyć"
+  },
+  "rødme": {
+    "present": "rødmer",
+    "past": "rødmet",
+    "perfect": "har rødmet",
+    "meaning_pl": "rumienić, czerwienić się"
+  },
+  "røre": {
+    "present": "rører",
+    "past": "rørte",
+    "perfect": "har rørt",
+    "meaning_pl": "ruszać, mieszać"
+  },
+  "røve": {
+    "present": "røver",
+    "past": "røvet",
+    "perfect": "har røvet",
+    "meaning_pl": "rabować"
+  },
+  "røyke": {
+    "present": "røyker",
+    "past": "røykte",
+    "perfect": "har røykt",
+    "meaning_pl": "palić papierosy, dymić"
+  },
+  "samle": {
+    "present": "samler",
+    "past": "samlet",
+    "perfect": "har samlet",
+    "meaning_pl": "zbierać, pozbierać"
+  },
+  "sammenlikne": {
+    "present": "sammenlikner",
+    "past": "sammenliknet",
+    "perfect": "har sammenliknet",
+    "meaning_pl": "porównywać"
+  },
+  "se": {
+    "present": "ser",
+    "past": "så",
+    "perfect": "har sett",
+    "meaning_pl": "widzieć, zobaczyć"
+  },
+  "seire": {
+    "present": "seirer",
+    "past": "seiret",
+    "perfect": "har seiret",
+    "meaning_pl": "wygrać, zwyciężyć"
+  },
+  "selge": {
+    "present": "selger",
+    "past": "solgte",
+    "perfect": "har solgt",
+    "meaning_pl": "sprzedawać"
+  },
+  "sende": {
+    "present": "sender",
+    "past": "sendte",
+    "perfect": "har sendt",
+    "meaning_pl": "wysyłać"
+  },
+  "servere": {
+    "present": "serverer",
+    "past": "serverte",
+    "perfect": "har servert",
+    "meaning_pl": "serwować"
+  },
+  "sette": {
+    "present": "setter",
+    "past": "satte",
+    "perfect": "har satt",
+    "meaning_pl": "postawić, ustawiać"
+  },
+  "si": {
+    "present": "sier",
+    "past": "sa",
+    "perfect": "har sagt",
+    "meaning_pl": "mówić, powiedzieć"
+  },
+  "sige": {
+    "present": "siger",
+    "past": "seg",
+    "perfect": "har seget",
+    "meaning_pl": "ślizgać się"
+  },
+  "signere": {
+    "present": "signerer",
+    "past": "signerte",
+    "perfect": "har signert",
+    "meaning_pl": "podpisywać"
+  },
+  "sitte": {
+    "present": "sitter",
+    "past": "satt",
+    "perfect": "har sittet",
+    "meaning_pl": "siedzieć"
+  },
+  "sjekke": {
+    "present": "sjekker",
+    "past": "sjekket",
+    "perfect": "har sjekket",
+    "meaning_pl": "sprawdzać"
+  },
+  "skille": {
+    "present": "skiller",
+    "past": "skilte",
+    "perfect": "har skilt",
+    "meaning_pl": "rozdzielić, rozwieść się"
+  },
+  "skinne": {
+    "present": "skinner",
+    "past": "skinte",
+    "perfect": "har skint",
+    "meaning_pl": "świecić"
+  },
+  "skje": {
+    "present": "skjer",
+    "past": "skjedde",
+    "perfect": "har skjedd",
+    "meaning_pl": "zdarzyć się"
+  },
+  "skjelle på": {
+    "present": "skjeller på",
+    "past": "skjelte på",
+    "perfect": "har skjelt på",
+    "meaning_pl": "ganić"
+  },
+  "skjelle ut": {
+    "present": "skjeller ut",
+    "past": "skjelte ut",
+    "perfect": "har skjelt ut",
+    "meaning_pl": "ganić, zwymyślać"
+  },
+  "skjelne": {
+    "present": "skjelner",
+    "past": "skjelnet",
+    "perfect": "har skjelnet",
+    "meaning_pl": "rozróżniać"
+  },
+  "skjelve": {
+    "present": "skjelver",
+    "past": "skalv",
+    "perfect": "har skjelvet",
+    "meaning_pl": "trząść się"
+  },
+  "skjenne": {
+    "present": "skjenner",
+    "past": "skjente",
+    "perfect": "har skjent",
+    "meaning_pl": "ganić"
+  },
+  "skjerpe": {
+    "present": "skjerper",
+    "past": "skjerpet",
+    "perfect": "har skjerpet",
+    "meaning_pl": "ostrzyć"
+  },
+  "skjerpe seg": {
+    "present": "skjerper seg",
+    "past": "skjerpet seg",
+    "perfect": "har skjerpet seg",
+    "meaning_pl": "uspokoić się , poprawić się, powstrzymać się"
+  },
+  "skjære": {
+    "present": "skjærer",
+    "past": "skar",
+    "perfect": "har skåret",
+    "meaning_pl": "kroić"
+  },
+  "skjønne": {
+    "present": "skjønner",
+    "past": "skjønte",
+    "perfect": "har skjønt",
+    "meaning_pl": "rozumieć"
+  },
+  "skride": {
+    "present": "skrider",
+    "past": "skred",
+    "perfect": "har skredet",
+    "meaning_pl": "kroczyć"
+  },
+  "skrive": {
+    "present": "skriver",
+    "past": "skrev",
+    "perfect": "har skrevet",
+    "meaning_pl": "pisać"
+  },
+  "skylle": {
+    "present": "skyller",
+    "past": "skylte",
+    "perfect": "har skylt",
+    "meaning_pl": "płukać"
+  },
+  "skynde seg": {
+    "present": "skynder seg",
+    "past": "skyndte",
+    "perfect": "har skyndt",
+    "meaning_pl": "spieszyć się"
+  },
+  "skyte": {
+    "present": "skyter",
+    "past": "skjøt",
+    "perfect": "har skutt",
+    "meaning_pl": "strzelać, odpalić"
+  },
+  "skyve": {
+    "present": "skyver",
+    "past": "skjøv",
+    "perfect": "har skjøvet",
+    "meaning_pl": "pchać, przesuwać"
+  },
+  "slanke": {
+    "present": "slanker",
+    "past": "slanket",
+    "perfect": "har slanket",
+    "meaning_pl": "odchudzać"
+  },
+  "slappe av": {
+    "present": "slapper av",
+    "past": "slappet av",
+    "perfect": "har slappet av",
+    "meaning_pl": "odpoczywać, relaksować się"
+  },
+  "slippe": {
+    "present": "slipper",
+    "past": "slapp",
+    "perfect": "har sluppet",
+    "meaning_pl": "puścić, puszczać, unikać"
+  },
+  "slite": {
+    "present": "sliter",
+    "past": "slet",
+    "perfect": "har slitt",
+    "meaning_pl": "męczyć się z czymś, usiłować coś zrobić"
+  },
+  "slutte": {
+    "present": "slutter",
+    "past": "sluttet",
+    "perfect": "har sluttet",
+    "meaning_pl": "kończyć"
+  },
+  "slå": {
+    "present": "slår",
+    "past": "slo",
+    "perfect": "har slått",
+    "meaning_pl": "bić, uderzać"
+  },
+  "slåss": {
+    "present": "slåss",
+    "past": "sloss",
+    "perfect": "har slåss",
+    "meaning_pl": "walczyć"
+  },
+  "smake": {
+    "present": "smaker",
+    "past": "smakte",
+    "perfect": "har smakt",
+    "meaning_pl": "smakować"
+  },
+  "smette": {
+    "present": "smetter",
+    "past": "smatt",
+    "perfect": "har smettet",
+    "meaning_pl": "skradać się, wkradać się"
+  },
+  "smile": {
+    "present": "smiler",
+    "past": "smilte",
+    "perfect": "har smilt",
+    "meaning_pl": "uśmiechać się"
+  },
+  "smyge": {
+    "present": "smyger",
+    "past": "smøg",
+    "perfect": "har smøget",
+    "meaning_pl": "skradać się"
+  },
+  "smøre": {
+    "present": "smører",
+    "past": "smurte",
+    "perfect": "har smurt",
+    "meaning_pl": "smarować"
+  },
+  "snakke": {
+    "present": "snakker",
+    "past": "snakket",
+    "perfect": "har snakket",
+    "meaning_pl": "rozmawiać"
+  },
+  "snike": {
+    "present": "sniker",
+    "past": "snek",
+    "perfect": "har sneket",
+    "meaning_pl": "skradać się, podkradać"
+  },
+  "snorke": {
+    "present": "snorker",
+    "past": "snorket",
+    "perfect": "har snorket",
+    "meaning_pl": "chrapać"
+  },
+  "snu": {
+    "present": "snur",
+    "past": "snudde",
+    "perfect": "har snudd",
+    "meaning_pl": "zawracać, odwracać"
+  },
+  "snø": {
+    "present": "snør",
+    "past": "snødde",
+    "perfect": "har snødd",
+    "meaning_pl": "padać (śnieg)"
+  },
+  "sole seg": {
+    "present": "soler seg",
+    "past": "solte seg",
+    "perfect": "har solt seg",
+    "meaning_pl": "opalać się"
+  },
+  "sove": {
+    "present": "sover",
+    "past": "sov",
+    "perfect": "har sovet",
+    "meaning_pl": "spać"
+  },
+  "sovne": {
+    "present": "sovner",
+    "past": "sovnet",
+    "perfect": "har sovnet",
+    "meaning_pl": "zasypiać"
+  },
+  "spandere": {
+    "present": "spanderer",
+    "past": "spanderte",
+    "perfect": "har spandert",
+    "meaning_pl": "zafundować, postawić"
+  },
+  "spare": {
+    "present": "sparer",
+    "past": "sparte",
+    "perfect": "har spart",
+    "meaning_pl": "oszczędzać"
+  },
+  "sparke": {
+    "present": "sparker",
+    "past": "sparket",
+    "perfect": "har sparket",
+    "meaning_pl": "kopać"
+  },
+  "speile": {
+    "present": "speiler",
+    "past": "speilte",
+    "perfect": "har speilt",
+    "meaning_pl": "odbijać się w czymś"
+  },
+  "spille": {
+    "present": "spiller",
+    "past": "spilte",
+    "perfect": "har spilt",
+    "meaning_pl": "grać"
+  },
+  "spinne": {
+    "present": "spinner",
+    "past": "spant",
+    "perfect": "har spunnet",
+    "meaning_pl": "obracać się, wirować"
+  },
+  "spise": {
+    "present": "spiser",
+    "past": "spiste",
+    "perfect": "har spist",
+    "meaning_pl": "jeść"
+  },
+  "sprekke": {
+    "present": "sprekker",
+    "past": "sprakk",
+    "perfect": "har sprukket",
+    "meaning_pl": "pękać"
+  },
+  "sprette": {
+    "present": "spretter",
+    "past": "spratt",
+    "perfect": "har spettet",
+    "meaning_pl": "podskoczyć, wyskoczyć, biec w podskokach"
+  },
+  "springe": {
+    "present": "springer",
+    "past": "sprang",
+    "perfect": "har sprunget",
+    "meaning_pl": "biec"
+  },
+  "spøke": {
+    "present": "spøker",
+    "past": "spøkte",
+    "perfect": "har spøkt",
+    "meaning_pl": "żartować, straszyć (duchy)"
+  },
+  "spørre": {
+    "present": "spør",
+    "past": "spurte",
+    "perfect": "har spurt",
+    "meaning_pl": "pytać"
+  },
+  "starte": {
+    "present": "starter",
+    "past": "startet",
+    "perfect": "har startet",
+    "meaning_pl": "zaczynać, rozpoczynać"
+  },
+  "stave": {
+    "present": "staver",
+    "past": "stavet",
+    "perfect": "har stavet",
+    "meaning_pl": "literować"
+  },
+  "steke": {
+    "present": "steker",
+    "past": "stekte",
+    "perfect": "har stekt",
+    "meaning_pl": "smażyć"
+  },
+  "stelle": {
+    "present": "steller",
+    "past": "stelte",
+    "perfect": "har stelt",
+    "meaning_pl": "pielęgnować"
+  },
+  "stemme": {
+    "present": "stemmer",
+    "past": "stemte",
+    "perfect": "har stemt",
+    "meaning_pl": "nastroić, głosować"
+  },
+  "stige": {
+    "present": "stiger",
+    "past": "steg",
+    "perfect": "har steget",
+    "meaning_pl": "wzrastać, podnosić się"
+  },
+  "stikke": {
+    "present": "stikker",
+    "past": "stakk",
+    "perfect": "har stukket",
+    "meaning_pl": "przekłuwać, żądlić, wbijać, uciekać"
+  },
+  "stille": {
+    "present": "stiller",
+    "past": "stilte",
+    "perfect": "har stilt",
+    "meaning_pl": "nastawić, ustawić sprzęt"
+  },
+  "stirre": {
+    "present": "stirrer",
+    "past": "stirret",
+    "perfect": "har stirret",
+    "meaning_pl": "wpatrywać sie, gapić się"
+  },
+  "stjele": {
+    "present": "stjeler",
+    "past": "stjal",
+    "perfect": "har stjålet",
+    "meaning_pl": "kraść"
+  },
+  "stole på": {
+    "present": "stoler på",
+    "past": "stolte på",
+    "perfect": "har stolt på",
+    "meaning_pl": "zaufać"
+  },
+  "stoppe": {
+    "present": "stopper",
+    "past": "stoppet",
+    "perfect": "har stoppet",
+    "meaning_pl": "zatrzymać się, przerwać"
+  },
+  "strekke": {
+    "present": "strekker",
+    "past": "strakk",
+    "perfect": "har strukket",
+    "meaning_pl": "rozciągać"
+  },
+  "streve": {
+    "present": "strever",
+    "past": "strevde",
+    "perfect": "har strevd",
+    "meaning_pl": "robić coś z trudem"
+  },
+  "strikke": {
+    "present": "strikker",
+    "past": "strikket",
+    "perfect": "har strikket",
+    "meaning_pl": "robić na drutach"
+  },
+  "stryke": {
+    "present": "stryker",
+    "past": "strøk",
+    "perfect": "har strøket",
+    "meaning_pl": "prasować"
+  },
+  "strømme": {
+    "present": "strømmer",
+    "past": "strømmet",
+    "perfect": "har strømmet",
+    "meaning_pl": "płynąć, cieknąć"
+  },
+  "studere": {
+    "present": "studerer",
+    "past": "studerte",
+    "perfect": "har studert",
+    "meaning_pl": "studiować, wgłębiać się, obserwować"
+  },
+  "stupe": {
+    "present": "stuper",
+    "past": "stupte",
+    "perfect": "har stupt",
+    "meaning_pl": "skakać w dół"
+  },
+  "stå": {
+    "present": "står",
+    "past": "sto",
+    "perfect": "stod",
+    "meaning_pl": "stać"
+  },
+  "støvsuge": {
+    "present": "støvsuger",
+    "past": "støvsugde",
+    "perfect": "har støvsugd",
+    "meaning_pl": "odkurzać"
+  },
+  "sukke": {
+    "present": "sukker",
+    "past": "sukket",
+    "perfect": "har sukket",
+    "meaning_pl": "wzdychać"
+  },
+  "svare": {
+    "present": "svarer",
+    "past": "svarte",
+    "perfect": "har svart",
+    "meaning_pl": "odpowiadać"
+  },
+  "svekke": {
+    "present": "svekker",
+    "past": "svekket",
+    "perfect": "har svekket",
+    "meaning_pl": "osłabiać, osłabić"
+  },
+  "svette": {
+    "present": "svetter",
+    "past": "svettet",
+    "perfect": "har svettet",
+    "meaning_pl": "pocić się"
+  },
+  "svike": {
+    "present": "sviker",
+    "past": "svek",
+    "perfect": "har sveket",
+    "meaning_pl": "zawieść, zdradzać, oszukiwać"
+  },
+  "svikte": {
+    "present": "svikter",
+    "past": "sviktet",
+    "perfect": "har sviktet",
+    "meaning_pl": "zawieść, zepsuć się"
+  },
+  "svinge": {
+    "present": "svinger",
+    "past": "svingte",
+    "perfect": "har svingt",
+    "meaning_pl": "skręcić"
+  },
+  "svømme": {
+    "present": "svømmer",
+    "past": "svømte",
+    "perfect": "har svømt",
+    "meaning_pl": "pływać"
+  },
+  "sy": {
+    "present": "syr",
+    "past": "sydde",
+    "perfect": "har sydd",
+    "meaning_pl": "szyć"
+  },
+  "sykle": {
+    "present": "sykler",
+    "past": "syklet",
+    "perfect": "har syklet",
+    "meaning_pl": "jeździć na rowerze"
+  },
+  "synes": {
+    "present": "synes",
+    "past": "syntes",
+    "perfect": "har synes",
+    "meaning_pl": "uważać"
+  },
+  "synge": {
+    "present": "synger",
+    "past": "sang",
+    "perfect": "har sunget",
+    "meaning_pl": "śpiewać"
+  },
+  "synke": {
+    "present": "synker",
+    "past": "sank",
+    "perfect": "har sunket",
+    "meaning_pl": "tonąć, zapadać się"
+  },
+  "søke": {
+    "present": "søker",
+    "past": "søkte",
+    "perfect": "har søkt",
+    "meaning_pl": "szukać, poszukiwać, ubiegać się o coś"
+  },
+  "søle": {
+    "present": "søler",
+    "past": "sølte",
+    "perfect": "har sølt",
+    "meaning_pl": "zabłocić, rozlać"
+  },
+  "takke": {
+    "present": "takker",
+    "past": "takket",
+    "perfect": "har takket",
+    "meaning_pl": "dziękować"
+  },
+  "tale": {
+    "present": "taler",
+    "past": "talte",
+    "perfect": "har talt",
+    "meaning_pl": "przemawiać"
+  },
+  "tape": {
+    "present": "taper",
+    "past": "tapte",
+    "perfect": "har tapt",
+    "meaning_pl": "przegrać"
+  },
+  "tappe": {
+    "present": "tapper",
+    "past": "tappet",
+    "perfect": "har tappet",
+    "meaning_pl": "czerpać, lać"
+  },
+  "taste": {
+    "present": "taster",
+    "past": "tastet",
+    "perfect": "har tastet",
+    "meaning_pl": "uderzać w klawiaturę komputera, instrumentu"
+  },
+  "tegne": {
+    "present": "tegner",
+    "past": "tegnet",
+    "perfect": "har tegnet",
+    "meaning_pl": "rysować"
+  },
+  "telle": {
+    "present": "teller",
+    "past": "telte",
+    "perfect": "har telt",
+    "meaning_pl": "liczyć"
+  },
+  "tenke": {
+    "present": "tenker",
+    "past": "tenkte",
+    "perfect": "har tenkt",
+    "meaning_pl": "myśleć"
+  },
+  "tenne": {
+    "present": "tenner",
+    "past": "tente",
+    "perfect": "har tent",
+    "meaning_pl": "rozpalać, rozpalić"
+  },
+  "terge": {
+    "present": "terger",
+    "past": "terget",
+    "perfect": "har terget",
+    "meaning_pl": "prowokować, drażnić, dokuczać, droczyć"
+  },
+  "tillate": {
+    "present": "tillater",
+    "past": "tillot",
+    "perfect": "har tillatt",
+    "meaning_pl": "pozwolić, zezwolić"
+  },
+  "titte": {
+    "present": "titter",
+    "past": "tittet",
+    "perfect": "har tittet",
+    "meaning_pl": "zerkać"
+  },
+  "tjene": {
+    "present": "tjener",
+    "past": "tjente",
+    "perfect": "har tjent",
+    "meaning_pl": "służyć, zarabiać pieniądze"
+  },
+  "tordne": {
+    "present": "tordner",
+    "past": "tordnet",
+    "perfect": "har tordnet",
+    "meaning_pl": "grzmieć"
+  },
+  "tore": {
+    "present": "tør",
+    "past": "torde",
+    "perfect": "har tord",
+    "meaning_pl": "ośmielać się, mieć odwagę"
+  },
+  "transportere": {
+    "present": "transporterer",
+    "past": "transporterte",
+    "perfect": "har transportert",
+    "meaning_pl": "transportować"
+  },
+  "treffe": {
+    "present": "treffer",
+    "past": "traff",
+    "perfect": "har truffet",
+    "meaning_pl": "spotykać"
+  },
+  "trekke fra": {
+    "present": "trekker fra",
+    "past": "trakk fra",
+    "perfect": "har trukket fra",
+    "meaning_pl": "potrącać, odejmować"
+  },
+  "trene": {
+    "present": "trener",
+    "past": "trente",
+    "perfect": "har trent",
+    "meaning_pl": "trenować"
+  },
+  "trenge": {
+    "present": "trenger",
+    "past": "trengte",
+    "perfect": "har trengt",
+    "meaning_pl": "potrzebować"
+  },
+  "trille": {
+    "present": "triller",
+    "past": "trillet",
+    "perfect": "har trillet",
+    "meaning_pl": "toczyć, obracać"
+  },
+  "trimme": {
+    "present": "trimmer",
+    "past": "trimmet",
+    "perfect": "har trimmet",
+    "meaning_pl": "ćwiczyć"
+  },
+  "trives": {
+    "present": "trives",
+    "past": "trivdes",
+    "perfect": "har trivdes",
+    "meaning_pl": "dobrze się czuć (w sensie lubić, podobać się)"
+  },
+  "tro": {
+    "present": "tror",
+    "past": "trodde",
+    "perfect": "har trodd",
+    "meaning_pl": "wierzyć"
+  },
+  "true": {
+    "present": "truer",
+    "past": "truet",
+    "perfect": "har truet",
+    "meaning_pl": "grozić"
+  },
+  "trykke": {
+    "present": "trykker",
+    "past": "trykket",
+    "perfect": "har trykket",
+    "meaning_pl": "naciskać, uciskać, drukować"
+  },
+  "tvinge": {
+    "present": "tvinger",
+    "past": "tvang",
+    "perfect": "har tvunget",
+    "meaning_pl": "zmusić"
+  },
+  "tyde": {
+    "present": "tyder",
+    "past": "tydet",
+    "perfect": "har tydet",
+    "meaning_pl": "zrozumieć, rozszyfrować"
+  },
+  "tyde på": {
+    "present": "tyder på",
+    "past": "tydet på",
+    "perfect": "har tydet på",
+    "meaning_pl": "wskazywać, oznaczać"
+  },
+  "tørke": {
+    "present": "tørker",
+    "past": "tørket",
+    "perfect": "har tørket",
+    "meaning_pl": "suszyć"
+  },
+  "underrette": {
+    "present": "underretter",
+    "past": "underrettet",
+    "perfect": "har underrettet",
+    "meaning_pl": "informować, powiadamiać"
+  },
+  "understreke": {
+    "present": "understreker",
+    "past": "understreket",
+    "perfect": "har understreket",
+    "meaning_pl": "podkreślić"
+  },
+  "undersøke": {
+    "present": "undersøker",
+    "past": "undersøkte",
+    "perfect": "har undersøkt",
+    "meaning_pl": "zbadać"
+  },
+  "undervise": {
+    "present": "underviser",
+    "past": "underviste",
+    "perfect": "har undervist",
+    "meaning_pl": "nauczać, wykładać"
+  },
+  "unnskylde": {
+    "present": "unnskylder",
+    "past": "unnskyldte",
+    "perfect": "har unnskyldt",
+    "meaning_pl": "przepraszać"
+  },
+  "utføre": {
+    "present": "utfører",
+    "past": "utførte",
+    "perfect": "har utført",
+    "meaning_pl": "wykonać"
+  },
+  "utløpe": {
+    "present": "utløper",
+    "past": "utløp",
+    "perfect": "har utløpt",
+    "meaning_pl": "wygasać, tracić ważność"
+  },
+  "utmerke": {
+    "present": "utmerker",
+    "past": "utmerket",
+    "perfect": "har utmerket",
+    "meaning_pl": "rozróżniać, odróżniać, wyróżniać"
+  },
+  "utpeke": {
+    "present": "utpeker",
+    "past": "utpekte",
+    "perfect": "har utpekt",
+    "meaning_pl": "wskazywać"
+  },
+  "utsette": {
+    "present": "utsetter",
+    "past": "utsatte",
+    "perfect": "har utsatt",
+    "meaning_pl": "oddalić"
+  },
+  "uttale": {
+    "present": "uttaler",
+    "past": "uttalte",
+    "perfect": "har uttalt",
+    "meaning_pl": "wymawiać, wypowiadać się"
+  },
+  "uttrykke": {
+    "present": "uttrykker",
+    "past": "uttrykte",
+    "perfect": "har uttrykt",
+    "meaning_pl": "wyrażać"
+  },
+  "vare": {
+    "present": "varer",
+    "past": "varte",
+    "perfect": "har vart",
+    "meaning_pl": "trwać"
+  },
+  "varme": {
+    "present": "varmer",
+    "past": "varmet",
+    "perfect": "har varmet",
+    "meaning_pl": "grzać"
+  },
+  "vaske": {
+    "present": "vasker",
+    "past": "vasket",
+    "perfect": "har vasket",
+    "meaning_pl": "myć, prać"
+  },
+  "veie": {
+    "present": "veier",
+    "past": "veide",
+    "perfect": "har veid",
+    "meaning_pl": "ważyć"
+  },
+  "vekke": {
+    "present": "vekker",
+    "past": "vekket",
+    "perfect": "har vekket",
+    "meaning_pl": "budzić"
+  },
+  "veksle": {
+    "present": "veksler",
+    "past": "vekslet",
+    "perfect": "har vekslet",
+    "meaning_pl": "wymieniać"
+  },
+  "velge": {
+    "present": "velger",
+    "past": "valgte",
+    "perfect": "har valgt",
+    "meaning_pl": "wybierać"
+  },
+  "vende": {
+    "present": "vender",
+    "past": "vendte",
+    "perfect": "har vendt",
+    "meaning_pl": "obracać, zawracać, skręcać"
+  },
+  "vente": {
+    "present": "venter",
+    "past": "ventet",
+    "perfect": "har ventet",
+    "meaning_pl": "czekać"
+  },
+  "verke": {
+    "present": "verker",
+    "past": "verket",
+    "perfect": "har verket",
+    "meaning_pl": "boleć"
+  },
+  "veve": {
+    "present": "vever",
+    "past": "vevde",
+    "perfect": "har vevd",
+    "meaning_pl": "tkać"
+  },
+  "vike": {
+    "present": "viker",
+    "past": "vek",
+    "perfect": "har veket",
+    "meaning_pl": "ulegać, ustępować"
+  },
+  "ville": {
+    "present": "vil",
+    "past": "ville",
+    "perfect": "har villet",
+    "meaning_pl": "chcieć"
+  },
+  "vinne": {
+    "present": "vinner",
+    "past": "vant",
+    "perfect": "har vunnet",
+    "meaning_pl": "wygrywać"
+  },
+  "virke": {
+    "present": "virker",
+    "past": "virket",
+    "perfect": "har virket",
+    "meaning_pl": "działać, czynić"
+  },
+  "virke som": {
+    "present": "virker som",
+    "past": "virket som",
+    "perfect": "har virket som",
+    "meaning_pl": "wydawać się, sprawiać wrażenie"
+  },
+  "vise": {
+    "present": "viser",
+    "past": "viste",
+    "perfect": "har vist",
+    "meaning_pl": "pokazywać"
+  },
+  "vite": {
+    "present": "vet",
+    "past": "visste",
+    "perfect": "har visst",
+    "meaning_pl": "wiedzieć"
+  },
+  "vokse": {
+    "present": "vokser",
+    "past": "vokste",
+    "perfect": "har vokst",
+    "meaning_pl": "rosnąć, dorastać"
+  },
+  "voldta": {
+    "present": "voldtar",
+    "past": "voldtatt",
+    "perfect": "har voldtatt",
+    "meaning_pl": "gwałcić"
+  },
+  "vrake": {
+    "present": "vraker",
+    "past": "vraket",
+    "perfect": "har vraket",
+    "meaning_pl": "odrzucać, odtrącać"
+  },
+  "vurdere": {
+    "present": "vurderer",
+    "past": "vurderte",
+    "perfect": "har vurdert",
+    "meaning_pl": "rozważyć, wziąć pod uwagę"
+  },
+  "våkne": {
+    "present": "våkner",
+    "past": "våknet",
+    "perfect": "har våknet",
+    "meaning_pl": "budzić się"
+  },
+  "være": {
+    "present": "er",
+    "past": "var",
+    "perfect": "har vært",
+    "meaning_pl": "być"
+  },
+  "ydmyke": {
+    "present": "ydmyker",
+    "past": "ydmykte",
+    "perfect": "har ydmyket",
+    "meaning_pl": "upokorzyć"
+  },
+  "åpne": {
+    "present": "åpner",
+    "past": "åpnet",
+    "perfect": "har åpnet",
+    "meaning_pl": "otwierać"
+  },
+  "ødelegge": {
+    "present": "ødelegger",
+    "past": "ødela",
+    "perfect": "har ødelagt",
+    "meaning_pl": "niszczyć, psuć"
+  },
+  "øke": {
+    "present": "øker",
+    "past": "økte",
+    "perfect": "har økt",
+    "meaning_pl": "zwiększać, wzrastać"
+  },
+  "ønske": {
+    "present": "ønsker",
+    "past": "ønsket",
+    "perfect": "har ønsket",
+    "meaning_pl": "życzyć, chcieć, pragnąć"
+  },
+  "øve": {
+    "present": "øver",
+    "past": "øvde",
+    "perfect": "har øvd",
+    "meaning_pl": "ćwiczyć"
+  }
+}

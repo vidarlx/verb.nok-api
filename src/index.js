@@ -1,4 +1,3 @@
 import app from './app';
 
-const server = http.createServer(app);
-server.listen(3000);
+app.listen(8080, () => console.log('Listening'));
