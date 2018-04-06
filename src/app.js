@@ -4,7 +4,7 @@ import path from 'path';
 import cookieParser from 'cookie-parser';
 import logger from 'morgan';
 
-import { getVerbs } from './verbs';
+import { getVerb, getVerbs } from './verbs';
 
 const app = express();
 
@@ -16,6 +16,15 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/', function(req, res, next) {
   res.json(getVerbs());
+});
+
+app.get('/:verb', function(req, res, next) {
+  const v = getVerb(req.params.verb);
+  if (!v) {
+    return next();
+  }
+
+  res.json(v);
 });
 
 // catch 404 and forward to error handler
@@ -31,7 +40,10 @@ app.use(function(err, req, res, next) {
 
   // render the error page
   res.status(err.status || 500);
-  res.render('error');
+  res.json({
+    message: err.message,
+    error: err
+  });
 });
 
 export default app;
