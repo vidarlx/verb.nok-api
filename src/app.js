@@ -2,6 +2,7 @@ import createError from 'http-errors';
 import express from 'express';
 import path from 'path';
 import cookieParser from 'cookie-parser';
+import cors from 'cors';
 import logger from 'morgan';
 
 import { getVerb, getVerbs } from './verbs';
