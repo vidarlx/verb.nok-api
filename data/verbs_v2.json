@@ -1,0 +1,109 @@
+{
+  "1": {
+    "bokmal": {
+      "grunnform": "være",
+      "presens": "er",
+      "preteritum": "var",
+      "perfektum": "vært"
+    },
+    "nynorsk": {
+      "grunnform": "være",
+      "presens": "er",
+      "preteritum": "var",
+      "perfektum": "vore"
+    },
+    "polsk": {
+      "podstawowa": "być",
+      "terazniejszy": {
+        "ja": "jestem",
+        "ty": "jesteś",
+        "on": "jest",
+        "ona": "jest",
+        "ono": "jest",
+        "my": "jesteśmy",
+        "wy": "jesteście",
+        "oni": "są",
+        "przykłady": [
+          "Jestem dumny z tego co robimy",
+          "Ta kawa jest ohydna! Poproszę herbatę"
+        ]
+      },
+      "przeszły": {
+        "ja": "byłem",
+        "ty": "byłeś",
+        "on": "był",
+        "ona": "była",
+        "ono": "było",
+        "my": "byliśmy",
+        "wy": "byliście",
+        "oni": "byli",
+        "one": "były",
+        "przykłady": [
+          "Wczoraj byliśmy w górach.",
+          "Wydaje mi się, że on był kiedyś lepszym graczem."
+        ]
+      },
+      "przyszły": {
+        "ja": "będę",
+        "ty": "będziesz",
+        "on": "będzie",
+        "ona": "będzie",
+        "ono": "będzie",
+        "my": "będziemy",
+        "wy": "będziecie",
+        "oni": "będą",
+        "one": "będą",
+        "przykłady": [
+          "Jutro będę w Krakowie.",
+          "Myślałem, że będziemy u Was dzisiaj, ale będziemy jutro."
+        ]
+      }
+    }
+  },
+  "2": {
+    "bokmal": {
+      "grunnform": "ha",
+      "presens": "har",
+      "preteritum": "hadde",
+      "perfektum": "hatt"
+    },
+    "nynorsk": {
+      "grunnform": "ha",
+      "presens": "har",
+      "preteritum": "hadde",
+      "perfektum": "hatt"
+    },
+    "polsk": {
+      "podstawowa": "mieć",
+      "terazniejszy": {
+        "ja": "mam",
+        "ty": "masz",
+        "on": "ma",
+        "ona": "ma",
+        "ono": "ma",
+        "my": "mamy",
+        "wy": "macie",
+        "oni": "mają",
+        "przykłady": [
+          "Mam dwa koty i psa.",
+          "Czy macie jakieś obiekcje?"
+        ]
+      },
+      "przeszły": {
+        "ja": "miałem",
+        "ty": "miałeś",
+        "on": "miał",
+        "ona": "miała",
+        "ono": "miało",
+        "my": "mieliśmy",
+        "wy": "mieliście",
+        "oni": "mieli",
+        "one": "miały",
+        "przykłady": [
+          "Miałem kiedyś dobry samochód. Ten obecny nie jest najlepszy.",
+          "Czy wczoraj miały miejsce jakieś incydenty?"
+        ]
+      }
+    }
+  }
+}
